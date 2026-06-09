@@ -153,40 +153,46 @@ Map Features:
 
 <br/>
 
-### 🔐 Login & User Dashboard
+### 🔐 Login & Water Status
 
 <div align="center">
-  <img src="InAppScreenshots/login-screen.png" width="250" alt="AquaSense Login" />
-  <img src="InAppScreenshots/user-dashboard-status.png" width="250" alt="Water Status Dashboard" />
-  <img src="InAppScreenshots/dashboard-trend-analysis.png" width="250" alt="Trend Analysis Dashboard" />
+  <img src="InAppScreenshots/login.png" width="250" alt="AquaSense Login" />
+  <img src="InAppScreenshots/user-1.jpg" width="250" alt="Water Status Dashboard" />
+  <img src="InAppScreenshots/login.jpg" width="250" alt="Water Status Overview" />
+</div>
+
+<br/>
+
+### 🗺️ Map, Reports & Hydration
+
+<div align="center">
+  <img src="InAppScreenshots/user-2.jpg" width="250" alt="Campus Water Map" />
+  <img src="InAppScreenshots/user-3.jpg" width="250" alt="Community Feed" />
+  <img src="InAppScreenshots/user-4.jpg" width="250" alt="Submit Report" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Water_Status-Safe-0B73D9?style=for-the-badge&logo=dropbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/pH-7.2-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TDS-142ppm-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Turbidity-0.4NTU-60A5FA?style=for-the-badge" />
+  <img src="InAppScreenshots/user-5.jpg" width="250" alt="Hydration Tracking" />
+  <img src="InAppScreenshots/user-6.jpg" width="250" alt="Service Timeline" />
+  <img src="InAppScreenshots/user-7.jpg" width="250" alt="Settings" />
 </div>
 
 <br/>
 
-### 🗺️ Map, Reports & Community Feed
+### 🛠️ Admin Dashboard
 
 <div align="center">
-  <img src="InAppScreenshots/campus-map.png" width="250" alt="Campus Map" />
-  <img src="InAppScreenshots/community-report-feed.png" width="250" alt="Community Reports" />
-  <img src="InAppScreenshots/service-schedule.png" width="250" alt="Service Schedule" />
+  <img src="InAppScreenshots/admin-1.jpg" width="250" alt="Admin Dashboard" />
+  <img src="InAppScreenshots/admin-2.jpg" width="250" alt="Admin Users" />
+  <img src="InAppScreenshots/admin-3.jpg" width="250" alt="Admin Sensors" />
 </div>
 
 <br/>
 
-### 🌍 Impact & Settings
-
 <div align="center">
-  <img src="InAppScreenshots/impact-tracking.png" width="250" alt="Impact Tracking" />
-  <img src="InAppScreenshots/settings-profile.png" width="250" alt="Settings and Profile" />
+  <img src="InAppScreenshots/admin-4.jpg" width="250" alt="Admin Reports" />
 </div>
 
 <br/>
